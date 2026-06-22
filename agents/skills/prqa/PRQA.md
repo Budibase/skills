@@ -17,7 +17,7 @@ When starting a QA review, add the `qa-bot-started` label to the PR.
 
 Next checkout their pull request and spin up Budibase. Test the the feature and ensure it meets the specification of the linked issue. 
 
-If you find any discrepancies or bugs, comment on the PR. 
+If you find any discrepancies or bugs, comment on the PR. Ideally provide screenshots or a recording if there is a visual problem.
 
 If the bug fix / feature implementation behaves as expected, then comment LGTM with a list of scenarios that you had tested.  
 
