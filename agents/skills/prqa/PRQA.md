@@ -13,6 +13,8 @@ If no linked issue is present, comment on the PR, mentioning the original poster
 
 If/when an appropriate issue has been linked, explore the linked issue to understand the intent of the pull request. 
 
+When starting a QA review, add the `qa-bot-started` label to the PR.
+
 Next checkout their pull request and spin up Budibase. Test the the feature and ensure it meets the specification of the linked issue. 
 
 If you find any discrepancies or bugs, comment on the PR. 
