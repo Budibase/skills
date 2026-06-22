@@ -3,7 +3,7 @@ name: prqa
 description: Test a Budibase community GitHub PR
 ---
 
-# My Skill
+# PR QA Skill
 
 This skill is for QA testing a pull request.
 
