@@ -21,7 +21,9 @@ Test the the feature and ensure it meets the specification of the linked issue.
 
 If you find any discrepancies or bugs, comment on the PR. Ideally provide screenshots or a recording if there is a visual problem.
 
-If the bug fix / feature implementation behaves as expected, then comment LGTM with a list of scenarios that you had tested. Add the `qa-bot-lgtm` label to the PR.
+If there is a lint issue via `yarn lint` or 'This branch is out-of-date with the base branch' on the PR, then let the original poster know that the lint or out-of-date branch issue needs addressed. 
+
+If the bug fix / feature implementation behaves as expected, and there are no other issues, then comment LGTM with a list of scenarios that you had tested. Add the `qa-bot-lgtm` label to the PR.
 
 
 ## Dev Instructions
