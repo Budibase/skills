@@ -25,11 +25,14 @@ If there is a lint issue via `yarn lint` or 'This branch is out-of-date with the
 
 If the bug fix / feature implementation behaves as expected, and there are no other issues, then comment LGTM with a list of scenarios that you had tested. Add the `qa-bot-lgtm` label to the PR.
 
+If the feature is front-end, provide a screenshot or recording showing the functionality being tested. 
+
 
 ## Dev Instructions
 
 These are the instructions for running Budibase after you have checked out the PR branch.
 
+- Check the ports in `.env` file of the worktree are available. If not, then change the ports as needed.
 - Run `yarn` to install the dependencies
 - Run `yarn dev` to spin up Budibase
 - Access Budibase as `localhost:10000` 
