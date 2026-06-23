@@ -19,6 +19,8 @@ Next checkout their pull request and spin up Budibase. Be sure to use a separate
 
 Test the the feature and ensure it meets the specification of the linked issue. 
 
+**Important**: If you are unable to test the UI (if it's a UI feature/bug fix) then do not post any messages and halt.
+
 If you find any discrepancies or bugs, comment on the PR. Ideally provide screenshots or a recording if there is a visual problem.
 
 If there is a lint issue via `yarn lint` or 'This branch is out-of-date with the base branch' on the PR, then let the original poster know that the lint or out-of-date branch issue needs addressed. 
